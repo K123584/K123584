@@ -2,7 +2,7 @@
 
 # Main Programming Languages
 
-![](https://skillicons.dev/icons?i=typescript,golang,"","")
+![](https://skillicons.dev/icons?i=typescript,golang,"","","","","","")
 <img src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" alt="gin" width="25">
 <img src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" alt="gin" width="25">
 <img src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" alt="gin" width="25">
