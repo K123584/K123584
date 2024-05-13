@@ -2,7 +2,7 @@
 
 # Main Programming Languages
 
-![](https://skillicons.dev/icons?i=typescript,golang,"","")
+![](https://skillicons.dev/icons?i=golang,typescript,"","")
 <img src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" alt="gin" width="36">
 <img src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" alt="gin" width="33">
 <img src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" alt="gin" width="30">
@@ -12,9 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=K123584&show_icons=true&locale=en&layout=compact)
 -->
 # Main frameworks
-![](https://skillicons.dev/icons?i=react)
-<img src="https://avatars.githubusercontent.com/u/7894478?v=4" alt="gin" width="60">
-
+<img src="https://avatars.githubusercontent.com/u/7894478?v=4" alt="gin" width="60"> ![](https://skillicons.dev/icons?i=react)
 
 # Cloud
 ![](https://skillicons.dev/icons?i=azure,aws)
