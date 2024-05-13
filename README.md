@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=K123584&show_icons=true&locale=en&layout=compact)
 -->
 # Main frameworks
-<img src="https://avatars.githubusercontent.com/u/7894478?v=4" alt="gin" width="60"> ![](https://skillicons.dev/icons?i=react)
+<img src="https://avatars.githubusercontent.com/u/7894478?v=4" alt="gin" width="55"> ![](https://skillicons.dev/icons?i=react)
 
 # Cloud
 ![](https://skillicons.dev/icons?i=azure,aws)
