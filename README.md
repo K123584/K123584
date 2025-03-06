@@ -15,5 +15,5 @@
 <img src="https://avatars.githubusercontent.com/u/7894478?v=4" alt="gin" width="55"> ![](https://skillicons.dev/icons?i=rails)![](https://skillicons.dev/icons?i=react)
 
 # Cloud
-![](https://skillicons.dev/icons?i=azure,aws)
+![](https://skillicons.dev/icons?i=aws)
 
