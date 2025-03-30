@@ -17,11 +17,11 @@
 </a>
 
 <a href="https://www.credly.com/badges/30a4cc72-422f-4a0c-86fb-ae244e4e293a/public_url">
-  <img src="https://github.com/K123584/images/blob/main/microsoft-certified-azure-fundamentals.png" alt="Azure-fundamental" width="100">
+  <img src="https://github.com/K123584/images/blob/main/microsoft-certified-azure-ai-fundamentals.png" alt="Azure-fundamental" width="100">
 </a>
 
-<a href="https://www.credly.com/badges/41a017e6-ad9d-4475-929a-342b38eb116f/public_url">
-  <img src="https://github.com/K123584/images/blob/main/microsoft-certified-azure-ai-fundamentals.png" alt="Azure-ai-fundamental" width="100">
+<a href="https://www.credly.com/badges/26bb7e94-25fe-4854-bee0-96f1e7f2b9ea/public_url">
+  <img src="https://github.com/K123584/images/blob/main/microsoft-certified-azure-fundamentals.png" alt="Azure-ai-fundamental" width="100">
 </a>
 
 ### Expired(期限切れ)
