@@ -15,5 +15,5 @@
 <img src="https://avatars.githubusercontent.com/u/7894478?v=4" alt="gin" width="55"> ![](https://skillicons.dev/icons?i=rails)![](https://skillicons.dev/icons?i=react)
 
 # Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="12204726-55c8-4b62-9128-eb9e9d942da1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/12345678-abc1-2345-def6-123456789abc.png)](https://www.credly.com/badges/12204726-55c8-4b62-9128-eb9e9d942da1)
 
